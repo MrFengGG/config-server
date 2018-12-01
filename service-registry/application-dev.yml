@@ -13,3 +13,4 @@ eureka:
     hostname: localhost
   server:
     enable-self-preservation: false
+
