@@ -4,3 +4,9 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8000/eureka/
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: springcloud
+    password: f43312626
